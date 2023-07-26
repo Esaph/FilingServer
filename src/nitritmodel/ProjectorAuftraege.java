@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2023.
+ * Julian Auguscik
+ */
+
 package nitritmodel;
 
 import java.util.List;

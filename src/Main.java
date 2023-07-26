@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2023.
+ * Julian Auguscik
+ */
+
 import com.google.gson.Gson;
 import config.FilingConfig;
 import serverconfiguration.ServerConfigFile;

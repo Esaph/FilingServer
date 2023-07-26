@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2023.
+ * Julian Auguscik
+ */
+
 import javax.crypto.*;
 import javax.crypto.spec.IvParameterSpec;
 import javax.crypto.spec.SecretKeySpec;

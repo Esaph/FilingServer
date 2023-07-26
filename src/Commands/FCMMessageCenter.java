@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2023.
+ * Julian Auguscik
+ */
+
 package Commands;
 
 import com.google.firebase.messaging.BatchResponse;

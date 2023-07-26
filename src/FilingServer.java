@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2023.
+ * Julian Auguscik
+ */
+
 import Commands.*;
 import com.google.gson.Gson;
 import config.FilingConfig;
