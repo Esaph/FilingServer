@@ -1,0 +1,9 @@
+{"mMaxRequestLength":100000,
+"mRequestThreadSize":30,
+"mRequestSubThreadSize":30,
+"mServerName":"Filing",
+"mPort":1002,
+"mSSLKeystoreFilePath":"/ssl/server.jks",
+"mSSLTrustStoreFilePath":"/ssl/servertruststore.jks",
+"mSSLKeystoreFilePassword":"jex!sew39",
+"mSSLTrustStoreFilePassword":"sea43!1s"}
